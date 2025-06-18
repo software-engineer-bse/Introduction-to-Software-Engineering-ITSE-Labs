@@ -1,0 +1,17 @@
+LAB EXERCISES:
+✅ Q1: Function Practice
+Create a function greetUser(name) that prints "Hello, [name]!"
+
+✅ Q2: Array Practice
+Create an array of numbers. Write a loop to sum all numbers and print the total.
+
+✅ Q3: Object Practice
+Make an object car with brand, model, and year. Write a function that prints a sentence using these values.
+
+✅ Q4: DOM & Event
+Make a simple HTML page with:
+    A <p> element with some text
+    A button that, when clicked, changes the text to "Updated!"
+
+✅ Q5: Multiply Function
+Write a function that takes two numbers and returns their product.
